@@ -11,7 +11,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
-#define PORT 8050
+#define PORT 8080
 #define IP_ADDR "127.0.0.1"
 #define BACKLOG 10
 
